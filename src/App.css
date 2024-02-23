@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  position: relative;
+  font-size: 27px; /* Ajusta el tamaño de la fuente según tus necesidades */
+
+  .imagen {
+    width: 200px; /* Ajusta el ancho según tus necesidades */
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .mb-2 {
+    width: 800px; /* Ajusta el ancho del campo de búsqueda según tus necesidades */
+    font-size: 18px; /* Ajusta el tamaño de la fuente del campo de búsqueda según tus necesidades */
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
